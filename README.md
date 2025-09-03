@@ -48,9 +48,3 @@ Comprehensive evaluation metrics including:
 
 ---
 
-##  Deployment
-- Streamlit web application for making predictions  
-- Serialized model (`model.pkl`) for easy deployment
-
-## Live app
-https://term-deposit-subscription-prediction-hkxmgu7zmlxsfveatk2bx9.streamlit.app/
